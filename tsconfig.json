@@ -1,4 +1,9 @@
 {
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+    // ... restante das configurações
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
